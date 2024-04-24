@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chivo:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+background-color: rgb(225, 225, 225);
+p{
+    font-family: Cabin,Chakra_Petch;
+    font-size: small;
+    a:link{
+    color: black;
+    margin-left: 15%;
+    }
+}
+a{
+    margin-left: 15%;
+}
+h1{
+    text-align: center;
+    font-family: Chivo;
+    font-size: xx-large;
+    color: #d2691e;
+    text-decoration: chocolate wavy underline;
+}
+h2{
+    text-align: center;
+    font-family: Chivo;
+    font-size: x-large;
+    color: chocolate;
+}
+h4{
+    font-family: Cabin,Chakra_Petch;
+    font-size: medium;
+    color: rgb(0, 0, 0);
+    text-decoration: chocolate underline;
+    margin-left: 15%;
+}
+h5{
+    font-family: Cabin,Chakra_Petch;
+    font-size: small;
+    text-align: justify;
+    color: black;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+a:link {
+    color: chocolate
+}
+a:visited {
+    color: chocolate
+}
+a:hover {
+    color: rgb(0, 0, 0);
+}
+img{
+    width: 20%;
+    margin: auto;
+    display: block;
+    border-radius: 100px;
+}
+}
